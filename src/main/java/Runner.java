@@ -10,6 +10,7 @@ public class Runner {
         //remoteda degisiklik
         System.out.println("developer 1 in commiti");
         //githupta commit
+        //developer2 buraya kod yazdi.
 
     }
 }
