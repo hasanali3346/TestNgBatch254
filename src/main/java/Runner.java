@@ -9,5 +9,7 @@ public class Runner {
         System.out.println("techpro 3");
         //remoteda degisiklik
         System.out.println("developer 1 in commiti");
+        //githupta commit
+
     }
 }
